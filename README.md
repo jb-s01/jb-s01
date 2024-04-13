@@ -1,7 +1,8 @@
 ### Hi there 👋 👨🏻‍💻
-![BeavisBeavisAndButtheadGIF](https://github.com/jb-s01/jb-s01/assets/63922578/b3c8a6c3-01aa-46f7-af67-12cba0732afd)
-![pixelartrobot](https://github.com/jb-s01/jb-s01/assets/pixel%art%robot.png)
+# Welcome to My GitHub Page!
+Hello! I'm Jonas Slaunwhite, a Python developer passionate about combining the power of programming with the dynamism of finance to create impactful web applications.
 
+![https://github.com/jb-s01/jb-s01/assets/pixel%art%robot.png](https://github.com/jb-s01/jb-s01/blob/main/pixel%20art%20robot.png)
 <!--
 **jb-s01/jb-s01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,16 +20,14 @@ Here are some ideas to get you started:
 
 ---
 
-# Welcome to My GitHub Page!
-
-Hello! I'm Jonas Slaunwhite, a Python developer passionate about combining the power of programming with the dynamism of finance to create impactful web applications.
-
 ## About Me 💬
 
 - 👨‍💻 I specialize in Python, leveraging frameworks like Flask & Streamlit to build robust, scalable web applications.
 - 📊 With a strong background in finance, I enjoy translating complex financial models into user-friendly software solutions.
 - 🔄 I'm continuously learning and experimenting with the latest technologies to stay at the forefront of financial software development.
 - 🌱 I’m currently learning Dash
+
+![BeavisBeavisAndButtheadGIF](https://github.com/jb-s01/jb-s01/assets/63922578/b3c8a6c3-01aa-46f7-af67-12cba0732afd)
 
 ## Projects 🔭
 
