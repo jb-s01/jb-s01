@@ -36,7 +36,7 @@ Here are a few highlights of my work:
 ### 1. **Professional Portfolio** 🚧
 A Dash-based web application that allows users to view my professional experience.
 - **Technologies:** Python, Dash, Pandas, Flask
-- [View Repository](#)
+- [View Repository](portfolio)
   
 ### 2. **Finance Tracker** 🚧
 A Dash-based web application that allows users to track their personal finances, visualize spending habits, and set budget goals.
