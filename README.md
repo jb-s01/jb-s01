@@ -1,6 +1,6 @@
 ### Hi there 👋 👨🏻‍💻
 ![BeavisBeavisAndButtheadGIF](https://github.com/jb-s01/jb-s01/assets/63922578/b3c8a6c3-01aa-46f7-af67-12cba0732afd)
-
+![pixelartrobot](https://github.com/jb-s01/jb-s01/assets/pixel%art%robot.png)
 
 <!--
 **jb-s01/jb-s01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
