@@ -36,27 +36,27 @@ Here are a few highlights of my work:
 ### 1. **Professional Portfolio** 🚧
 A Dash-based web application that allows users to view my professional experience.
 - **Technologies:** Python, Dash, Pandas, Flask
-- [portfolio](https://github.com/jb-s01/portfolio)
+- [view repo](https://github.com/jb-s01/portfolio)
   
 ### 2. **Finance Tracker** 🚧
 A Dash-based web application that allows users to track their personal finances, visualize spending habits, and set budget goals.
 - **Technologies:** Python, Dash, JavaScript, Bootstrap
-- [View Repository](#)
+- [view repo](#)
 
 ### 3. **Investment Portfolio Analyzer** 🚧
 An application that helps investors manage and analyze their investment portfolios to make data-driven decisions.
 - **Technologies:** Python, Dash, Pandas, Plotly
-- [View Repository](#)
+- [view repo](#)
 
 ### 4. **Market Trend Prediction** 🚧
 A Flask application that uses machine learning to predict stock market trends based on historical data.
 - **Technologies:** Python, Dash, Pandas, Scikit-Learn, NumPy
-- [View Repository](#)
+- [view repo](#)
 
 ## Skills 🌱
 
 - **Languages:** Python, SQL, JavaScript
-- **Frameworks:** Flask, Dash
+- **Frameworks:** Flask, Streamlit, Dash
 - **Tools:** Docker, Git, PostgreSQL
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
