@@ -1,6 +1,6 @@
 ### Hi there 👋 👨🏻‍💻
 # Welcome to My GitHub Page!
-Hello! I'm Jonas Slaunwhite, a Python developer passionate about combining the power of programming with the dynamism of finance to create impactful web applications.
+Hello! I'm Jonas Slaunwhite, a self-taught Python developer passionate about combining the power of programming with the dynamism of finance to create impactful applications.
 <!--
 ![https://github.com/jb-s01/jb-s01/assets/pixel%art%robot.png](https://github.com/jb-s01/jb-s01/blob/main/pixel%20art%20robot.png)
 -->
