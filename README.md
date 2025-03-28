@@ -1,8 +1,9 @@
 ### Hi there 👋 👨🏻‍💻
 # Welcome to My GitHub Page!
 Hello! I'm Jonas Slaunwhite, a Python developer passionate about combining the power of programming with the dynamism of finance to create impactful web applications.
-
+<!--
 ![https://github.com/jb-s01/jb-s01/assets/pixel%art%robot.png](https://github.com/jb-s01/jb-s01/blob/main/pixel%20art%20robot.png)
+-->
 <!--
 **jb-s01/jb-s01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,9 +26,7 @@ Here are some ideas to get you started:
 - 👨‍💻 I specialize in Python, leveraging frameworks like Flask & Streamlit to build robust, scalable web applications.
 - 📊 With a strong background in finance, I enjoy translating complex financial models into user-friendly software solutions.
 - 🔄 I'm continuously learning and experimenting with the latest technologies to stay at the forefront of financial software development.
-- 🌱 I’m currently learning Dash
 
-![BeavisBeavisAndButtheadGIF](https://github.com/jb-s01/jb-s01/assets/63922578/b3c8a6c3-01aa-46f7-af67-12cba0732afd)
 
 ## Projects 🔭
 
@@ -37,27 +36,19 @@ A Dash-based web application that allows users to view my professional experienc
 - **Technologies:** Python, Dash, Pandas, Flask
 - [view repo](https://github.com/jb-s01/portfolio)
   
-### 2. **Finance Tracker** 🚧
-A Dash-based web application that allows users to track their personal finances, visualize spending habits, and set budget goals.
-- **Technologies:** Python, Dash, JavaScript, Bootstrap
-- [view repo](#)
+### 2. **Long-Only Quant Strategy Framework** 🚧
 
-### 3. **Investment Portfolio Analyzer** 🚧
-An application that helps investors manage and analyze their investment portfolios to make data-driven decisions.
-- **Technologies:** Python, Dash, Pandas, Plotly
-- [view repo](#)
+A modular research-to-execution system for developing and deploying long-only quantitative investment strategies. The project includes alpha modeling, portfolio construction, data engineering, trade execution, and live monitoring — all within a robust and scalable infrastructure.
 
-### 4. **Market Trend Prediction** 🚧
-A Flask application that uses machine learning to predict stock market trends based on historical data.
-- **Technologies:** Python, Dash, Pandas, Scikit-Learn, NumPy
-- [view repo](#)
+**Technologies used:**  
+Python · Databricks · Azure (Data Factory, Key Vault) · Financial Modelling Prep API · Interactive Brokers API · Plotly · Delta Lake · MLflow · GitHub Actions
 
 ## Skills 🌱
 
-- **Languages:** Python, SQL, JavaScript
-- **Frameworks:** Flask, Streamlit, Dash
-- **Tools:** Docker, Git, PostgreSQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Languages:** Python, SQL, PySpark, JavaScript, Bash
+- **Frameworks:** Streamlit, Dash, Flask
+- **Tools:** Git, PostgreSQL, Docker
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, scikit-learn, statsmodels
 
 ## Connect with Me 📫
 
