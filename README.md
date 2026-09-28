@@ -4,6 +4,9 @@ Tinkering data professional in Halifax — quantitative finance, web apps, and a
 
 <img src="pixel-art-robot.png" width="180" alt="Pixel-art robot with JS on its chest, standing on a hill" />
 
+**Featured**
+[Bookshelf](https://github.com/jb-s01/personal-bookshelf) — 199 titles on one animated bookcase. Open a cinematic door, walk the hallway, and pull a spine for a short brief.
+
 **Now**
 - [ElectroLearn](https://github.com/jb-s01/learn_electrical_n_robotics) — electronics lessons with a live circuit lab and a local AI tutor
 - [Open OCR](https://github.com/jb-s01/open_ocr) — local-LLM document extraction from PDFs
