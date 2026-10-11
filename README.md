@@ -3,7 +3,7 @@
 Tinkering data professional in Halifax — quantitative finance, web apps, and agentic AI.
 
 **Featured**
-[Bookshelf](https://github.com/jb-s01/personal-bookshelf) — 199 titles on one animated bookcase. Open a cinematic door, walk the hallway, and pull a spine for a short brief.
+[Bookshelf](https://github.com/jb-s01/personal-bookshelf) — 200+ titles on one animated bookcase. Open a cinematic door, walk the hallway, and pull a spine for a short brief.
 
 **Now**
 - [ElectroLearn](https://github.com/jb-s01/learn_electrical_n_robotics) — electronics lessons with a live circuit lab and a local AI tutor
